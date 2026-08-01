@@ -29,7 +29,7 @@ The goal of this project is to create a clean, responsive, and meaningful digita
 ## 📂 Project Structure
 
 ```
-Shin/
+Shinland/
 ├── public/              # Static assets
 ├── src/                 # Main application source
 │   ├── assets/          # Images and media
@@ -55,7 +55,7 @@ git clone https://github.com/yourusername/Shinland.git
 Navigate into the project:
 
 ```bash
-cd Shinland
+cd Shinland/
 ```
 
 Install dependencies:
